@@ -9,6 +9,12 @@ A plugin for the Cotonti CMF that allows a super administrator (and, optionally,
 [![Bootstrap v5.3.8](https://img.shields.io/badge/Bootstrap-v5.3.8-blueviolet.svg)](https://getbootstrap.com/)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](https://github.com/webitproff/usersauth-cotonti/blob/main/LICENSE)
 
+---  
+<img width="1672" height="941" alt="usersauth-cotonti" src="https://github.com/user-attachments/assets/11f45b5f-9ca9-4fa5-bb91-023edcf686b3" />
+
+---  
+
+
 - **Repository:** https://github.com/webitproff/usersauth-cotonti
 - **Marketplace:** https://abuyfile.com/market/cotonti/plugs/usersauth
 - **Support:** https://abuyfile.com/forums/cotonti/custom/
